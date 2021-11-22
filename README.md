@@ -1,3 +1,8 @@
+# React Child Test
+
+I made this project to test if functions can be passed as childs to child Elements. This is the beginnig of my learning way to create Custom Components
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
